@@ -101,4 +101,8 @@
 |  |
 | ------- |
 | [0073-set-matrix-zeroes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0073-set-matrix-zeroes) |
+## String
+|  |
+| ------- |
+| [0058-length-of-last-word](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0058-length-of-last-word) |
 <!---LeetCode Topics End-->
