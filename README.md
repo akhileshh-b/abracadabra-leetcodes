@@ -29,6 +29,7 @@
 | ------- |
 | [0386-lexicographical-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0386-lexicographical-numbers) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Trie
 |  |
 | ------- |
@@ -45,4 +46,12 @@
 |  |
 | ------- |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+## Tree
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
+## Breadth-First Search
+|  |
+| ------- |
+| [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 <!---LeetCode Topics End-->
