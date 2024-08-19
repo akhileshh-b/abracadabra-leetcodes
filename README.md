@@ -36,6 +36,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0386-lexicographical-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0386-lexicographical-numbers) |
+| [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Trie
@@ -68,6 +69,7 @@
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Binary Tree
 |  |
@@ -78,6 +80,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Greedy
@@ -112,6 +115,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0058-length-of-last-word](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0058-length-of-last-word) |
+| [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 ## Recursion
 |  |
 | ------- |
