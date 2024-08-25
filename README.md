@@ -10,6 +10,7 @@
 | [0540-single-element-in-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0792-binary-search) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3647-zero-array-transformation-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Binary Search
 |  |
 | ------- |
@@ -72,6 +73,7 @@
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3647-zero-array-transformation-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -80,4 +82,13 @@
 |  |
 | ------- |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3647-zero-array-transformation-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3647-zero-array-transformation-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3647-zero-array-transformation-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [3647-zero-array-transformation-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3647-zero-array-transformation-iii) |
 <!---LeetCode Topics End-->
