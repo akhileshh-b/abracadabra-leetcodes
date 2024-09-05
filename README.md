@@ -34,6 +34,7 @@
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
 | [3321-type-of-triangle](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3321-type-of-triangle) |
@@ -72,6 +73,7 @@
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
@@ -162,6 +164,7 @@
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 ## Stack
