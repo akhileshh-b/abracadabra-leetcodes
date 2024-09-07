@@ -11,6 +11,7 @@
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0792-binary-search) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -90,12 +91,14 @@
 | [0005-longest-palindromic-substring](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Greedy
 |  |
 | ------- |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3647-zero-array-transformation-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3647-zero-array-transformation-iii) |
 ## Bit Manipulation
@@ -128,6 +131,7 @@
 | [0013-roman-to-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0013-roman-to-integer) |
 | [0058-length-of-last-word](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0058-length-of-last-word) |
 | [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
+| [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 ## Recursion
