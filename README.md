@@ -203,4 +203,8 @@
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2048-build-array-from-permutation) |
+## Database
+|  |
+| ------- |
+| [1462-list-the-products-ordered-in-a-period](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 <!---LeetCode Topics End-->
