@@ -162,4 +162,8 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+## Backtracking
+|  |
+| ------- |
+| [0052-n-queens-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0052-n-queens-ii) |
 <!---LeetCode Topics End-->
