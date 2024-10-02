@@ -211,4 +211,5 @@
 | [1625-group-sold-products-by-the-date](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1670-patients-with-a-condition) |
+| [1811-fix-names-in-a-table](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
