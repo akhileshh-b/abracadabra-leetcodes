@@ -221,6 +221,7 @@
 | [0585-investments-in-2016](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0585-investments-in-2016) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [0626-exchange-seats](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0626-exchange-seats) |
+| [1278-product-price-at-a-given-date](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
