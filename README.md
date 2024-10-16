@@ -26,6 +26,7 @@
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3822-fill-a-special-grid](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3822-fill-a-special-grid) |
 ## Binary Search
 |  |
 | ------- |
@@ -156,6 +157,7 @@
 | [0073-set-matrix-zeroes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
+| [3822-fill-a-special-grid](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3822-fill-a-special-grid) |
 ## String
 |  |
 | ------- |
@@ -195,6 +197,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [3822-fill-a-special-grid](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3822-fill-a-special-grid) |
 ## Shortest Path
 |  |
 | ------- |
