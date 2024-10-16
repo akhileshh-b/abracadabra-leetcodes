@@ -46,6 +46,7 @@
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3637-count-number-of-balanced-permutations](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3637-count-number-of-balanced-permutations) |
+| [3859-maximum-product-of-two-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Two Pointers
 |  |
 | ------- |
@@ -141,6 +142,7 @@
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3647-zero-array-transformation-iii) |
+| [3859-maximum-product-of-two-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3859-maximum-product-of-two-digits) |
 ## Heap (Priority Queue)
 |  |
 | ------- |
