@@ -98,12 +98,14 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
@@ -111,6 +113,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 ## Dynamic Programming
 |  |
