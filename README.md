@@ -222,6 +222,7 @@
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
 | [1452-restaurant-growth](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
+| [1480-movie-rating](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1480-movie-rating) |
 | [1625-group-sold-products-by-the-date](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1625-group-sold-products-by-the-date) |
 | [1664-find-users-with-valid-e-mails](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1670-patients-with-a-condition) |
