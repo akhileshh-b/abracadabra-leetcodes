@@ -62,6 +62,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [0386-lexicographical-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0386-lexicographical-numbers) |
 | [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
@@ -100,6 +101,7 @@
 | [0094-binary-tree-inorder-traversal](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0341-flatten-nested-list-iterator](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3633-maximize-the-number-of-target-nodes-after-connecting-trees-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3633-maximize-the-number-of-target-nodes-after-connecting-trees-i) |
 ## Breadth-First Search
@@ -190,6 +192,7 @@
 |  |
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
+| [0341-flatten-nested-list-iterator](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0341-flatten-nested-list-iterator) |
 ## Counting
 |  |
 | ------- |
@@ -241,4 +244,16 @@
 | [1811-fix-names-in-a-table](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1811-fix-names-in-a-table) |
 | [2057-count-salary-categories](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2057-count-salary-categories) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2127-employees-whose-manager-left-the-company) |
+## Design
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Queue
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Iterator
+|  |
+| ------- |
+| [0341-flatten-nested-list-iterator](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0341-flatten-nested-list-iterator) |
 <!---LeetCode Topics End-->
