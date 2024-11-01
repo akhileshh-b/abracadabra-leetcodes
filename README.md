@@ -22,6 +22,7 @@
 | [2048-build-array-from-permutation](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2846-robot-collisions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2846-robot-collisions) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -150,6 +151,7 @@
 | [0015-3sum](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0075-sort-colors) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2846-robot-collisions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2846-robot-collisions) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -194,6 +196,7 @@
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [2846-robot-collisions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2846-robot-collisions) |
 ## Counting
 |  |
 | ------- |
@@ -227,6 +230,7 @@
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
+| [2846-robot-collisions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2846-robot-collisions) |
 ## Database
 |  |
 | ------- |
