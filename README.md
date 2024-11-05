@@ -59,6 +59,7 @@
 | [0075-sort-colors](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
+| [0868-push-dominoes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0868-push-dominoes) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -126,6 +127,7 @@
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 | [0806-domino-and-tromino-tiling](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0806-domino-and-tromino-tiling) |
+| [0868-push-dominoes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0868-push-dominoes) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
@@ -181,6 +183,7 @@
 | [0058-length-of-last-word](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0058-length-of-last-word) |
 | [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 | [0520-detect-capital](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0520-detect-capital) |
+| [0868-push-dominoes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0868-push-dominoes) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3617-find-the-original-typed-string-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
