@@ -48,6 +48,7 @@
 | ------- |
 | [0002-add-two-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0002-add-two-numbers) |
 | [0013-roman-to-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3321-type-of-triangle](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3321-type-of-triangle) |
@@ -204,6 +205,7 @@
 | [0002-add-two-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0002-add-two-numbers) |
 | [0021-merge-two-sorted-lists](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0025-reverse-nodes-in-k-group) |
+| [0060-permutation-sequence](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0060-permutation-sequence) |
 ## Stack
 |  |
 | ------- |
