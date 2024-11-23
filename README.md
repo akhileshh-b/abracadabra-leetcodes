@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0051-n-queens](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -214,6 +215,7 @@
 ## Backtracking
 |  |
 | ------- |
+| [0051-n-queens](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0051-n-queens) |
 | [0052-n-queens-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0052-n-queens-ii) |
 ## Divide and Conquer
 |  |
