@@ -8,6 +8,7 @@
 | [0004-median-of-two-sorted-arrays](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0015-3sum) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0042-trapping-rain-water](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0042-trapping-rain-water) |
 | [0051-n-queens](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0051-n-queens) |
 | [0073-set-matrix-zeroes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0075-sort-colors) |
@@ -57,6 +58,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0015-3sum](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0015-3sum) |
+| [0042-trapping-rain-water](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0042-trapping-rain-water) |
 | [0075-sort-colors](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0075-sort-colors) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
@@ -125,6 +127,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0042-trapping-rain-water](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0042-trapping-rain-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 | [0806-domino-and-tromino-tiling](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -199,6 +202,7 @@
 ## Stack
 |  |
 | ------- |
+| [0042-trapping-rain-water](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0042-trapping-rain-water) |
 | [0094-binary-tree-inorder-traversal](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0094-binary-tree-inorder-traversal) |
 | [0341-flatten-nested-list-iterator](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0341-flatten-nested-list-iterator) |
 | [2846-robot-collisions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2846-robot-collisions) |
@@ -276,4 +280,8 @@
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0341-flatten-nested-list-iterator) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0042-trapping-rain-water](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0042-trapping-rain-water) |
 <!---LeetCode Topics End-->
