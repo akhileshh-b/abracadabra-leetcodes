@@ -268,6 +268,7 @@
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1278-product-price-at-a-given-date](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1278-product-price-at-a-given-date) |
 | [1292-immediate-food-delivery-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1292-immediate-food-delivery-ii) |
+| [1317-monthly-transactions-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1317-monthly-transactions-i) |
 | [1327-last-person-to-fit-in-the-bus](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1452-restaurant-growth](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
