@@ -26,6 +26,7 @@
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [2472-build-a-matrix-with-conditions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2846-robot-collisions) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
@@ -107,6 +108,7 @@
 |  |
 | ------- |
 | [2438-find-closest-node-to-given-two-nodes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2438-find-closest-node-to-given-two-nodes) |
+| [2472-build-a-matrix-with-conditions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 ## Tree
@@ -187,6 +189,7 @@
 | ------- |
 | [0048-rotate-image](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0073-set-matrix-zeroes) |
+| [2472-build-a-matrix-with-conditions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3822-fill-a-special-grid](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3822-fill-a-special-grid) |
@@ -308,4 +311,8 @@
 |  |
 | ------- |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
+## Topological Sort
+|  |
+| ------- |
+| [2472-build-a-matrix-with-conditions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 <!---LeetCode Topics End-->
