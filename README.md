@@ -44,6 +44,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
+| [0069-sqrtx](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0162-find-peak-element) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -56,8 +57,8 @@
 | [0013-roman-to-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0060-permutation-sequence) |
+| [0069-sqrtx](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
-| [0223-rectangle-area](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0223-rectangle-area) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3321-type-of-triangle](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -325,8 +326,4 @@
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2472-build-a-matrix-with-conditions) |
-## Geometry
-|  |
-| ------- |
-| [0223-rectangle-area](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
