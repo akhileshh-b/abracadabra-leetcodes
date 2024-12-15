@@ -31,6 +31,7 @@
 | [2846-robot-collisions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2846-robot-collisions) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3221-find-the-peaks](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3221-find-the-peaks) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -237,6 +238,7 @@
 |  |
 | ------- |
 | [2215-finding-3-digit-even-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
+| [3221-find-the-peaks](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3221-find-the-peaks) |
 ## Backtracking
 |  |
 | ------- |
