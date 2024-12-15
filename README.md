@@ -57,6 +57,7 @@
 | [0048-rotate-image](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0048-rotate-image) |
 | [0060-permutation-sequence](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
+| [0223-rectangle-area](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0223-rectangle-area) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [3321-type-of-triangle](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3321-type-of-triangle) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -324,4 +325,8 @@
 |  |
 | ------- |
 | [2472-build-a-matrix-with-conditions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2472-build-a-matrix-with-conditions) |
+## Geometry
+|  |
+| ------- |
+| [0223-rectangle-area](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0223-rectangle-area) |
 <!---LeetCode Topics End-->
