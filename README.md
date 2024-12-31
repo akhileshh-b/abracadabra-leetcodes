@@ -295,6 +295,7 @@
 | [0185-department-top-three-salaries](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0185-department-top-three-salaries) |
 | [0196-delete-duplicate-emails](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0196-delete-duplicate-emails) |
 | [0570-managers-with-at-least-5-direct-reports](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0570-managers-with-at-least-5-direct-reports) |
+| [0577-employee-bonus](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0577-employee-bonus) |
 | [0585-investments-in-2016](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0585-investments-in-2016) |
 | [0596-classes-with-at-least-5-students](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0596-classes-with-at-least-5-students) |
 | [0602-friend-requests-ii-who-has-the-most-friends](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0602-friend-requests-ii-who-has-the-most-friends) |
@@ -312,7 +313,6 @@
 | [1327-last-person-to-fit-in-the-bus](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1327-last-person-to-fit-in-the-bus) |
 | [1338-queries-quality-and-percentage](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1338-queries-quality-and-percentage) |
 | [1390-average-selling-price](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1390-average-selling-price) |
-| [1415-students-and-examinations](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1415-students-and-examinations) |
 | [1452-restaurant-growth](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1452-restaurant-growth) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1462-list-the-products-ordered-in-a-period) |
 | [1480-movie-rating](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1480-movie-rating) |
