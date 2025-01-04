@@ -322,6 +322,7 @@
 | [1664-find-users-with-valid-e-mails](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1670-patients-with-a-condition) |
 | [1773-percentage-of-users-attended-a-contest](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1773-percentage-of-users-attended-a-contest) |
+| [1801-average-time-of-process-per-machine](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1801-average-time-of-process-per-machine) |
 | [1811-fix-names-in-a-table](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1811-fix-names-in-a-table) |
 | [1877-find-followers-count](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
