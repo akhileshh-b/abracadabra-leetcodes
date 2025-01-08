@@ -25,6 +25,7 @@
 | [1293-three-consecutive-odds](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1293-three-consecutive-odds) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1528-kids-with-the-greatest-number-of-candies](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
