@@ -114,6 +114,7 @@
 | [0073-set-matrix-zeroes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0202-happy-number) |
+| [0383-ransom-note](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
@@ -237,6 +238,7 @@
 | [0014-longest-common-prefix](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0014-longest-common-prefix) |
 | [0058-length-of-last-word](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0067-add-binary) |
+| [0383-ransom-note](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0383-ransom-note) |
 | [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 | [0520-detect-capital](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0520-detect-capital) |
 | [0868-push-dominoes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0868-push-dominoes) |
@@ -265,6 +267,7 @@
 ## Counting
 |  |
 | ------- |
+| [0383-ransom-note](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
