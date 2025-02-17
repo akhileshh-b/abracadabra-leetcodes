@@ -1,11 +1,10 @@
 class Solution {
 public:
     int singleNonDuplicate(vector<int>& nums) {
-        int finalanswer=0;
-        int n=nums.size();
-        for(int i=0;i<n;i++){
-            finalanswer=finalanswer^nums[i];
+        int ans = 0;
+        for(int it:nums){
+            ans = ans ^ it;
         }
-        return finalanswer;
+        return ans;
     }
-}; 
+};
