@@ -27,6 +27,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1528-kids-with-the-greatest-number-of-candies](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1528-kids-with-the-greatest-number-of-candies) |
+| [1791-richest-customer-wealth](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1791-richest-customer-wealth) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2048-build-array-from-permutation](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -228,6 +229,7 @@
 | [0048-rotate-image](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0048-rotate-image) |
 | [0073-set-matrix-zeroes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [1022-unique-paths-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1022-unique-paths-iii) |
+| [1791-richest-customer-wealth](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1791-richest-customer-wealth) |
 | [2472-build-a-matrix-with-conditions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
