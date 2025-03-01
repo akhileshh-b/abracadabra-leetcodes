@@ -20,6 +20,7 @@
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1022-unique-paths-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1022-unique-paths-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -93,6 +94,7 @@
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0202-happy-number) |
 | [0868-push-dominoes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0868-push-dominoes) |
+| [1019-squares-of-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 ## Depth-First Search
@@ -203,6 +205,7 @@
 | ------- |
 | [0015-3sum](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0075-sort-colors) |
+| [1019-squares-of-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
