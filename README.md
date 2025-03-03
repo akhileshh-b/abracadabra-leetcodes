@@ -76,6 +76,7 @@
 | [0069-sqrtx](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0202-happy-number) |
+| [0412-fizz-buzz](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0412-fizz-buzz) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -258,6 +259,7 @@
 | [0067-add-binary](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0125-valid-palindrome) |
 | [0383-ransom-note](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0383-ransom-note) |
+| [0412-fizz-buzz](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0412-fizz-buzz) |
 | [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 | [0520-detect-capital](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0742-to-lower-case) |
@@ -326,6 +328,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0067-add-binary) |
+| [0412-fizz-buzz](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
