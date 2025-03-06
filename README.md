@@ -257,6 +257,7 @@
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3194-find-words-containing-character](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3194-find-words-containing-character) |
+| [3312-number-of-changing-keys](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3312-number-of-changing-keys) |
 | [3617-find-the-original-typed-string-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
