@@ -41,6 +41,7 @@
 | [2846-robot-collisions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2846-robot-collisions) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
+| [3194-find-words-containing-character](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3221-find-the-peaks) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3321-type-of-triangle) |
@@ -255,6 +256,7 @@
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
+| [3194-find-words-containing-character](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3194-find-words-containing-character) |
 | [3617-find-the-original-typed-string-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3617-find-the-original-typed-string-i) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
