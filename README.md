@@ -76,6 +76,7 @@
 | [0202-happy-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0202-happy-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
+| [1610-xor-operation-in-an-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2812-find-the-maximum-achievable-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
@@ -201,6 +202,7 @@
 | [0067-add-binary](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0067-add-binary) |
 | [1022-unique-paths-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1610-xor-operation-in-an-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 ## Sorting
 |  |
