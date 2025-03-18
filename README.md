@@ -39,6 +39,7 @@
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2472-build-a-matrix-with-conditions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2846-robot-collisions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2846-robot-collisions) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3194-find-words-containing-character) |
