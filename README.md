@@ -45,7 +45,6 @@
 | [3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3171-minimum-equal-sum-of-two-arrays-after-replacing-zeros) |
 | [3194-find-words-containing-character](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3194-find-words-containing-character) |
 | [3221-find-the-peaks](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3221-find-the-peaks) |
-| [3226-minimum-number-game](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3226-minimum-number-game) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3321-type-of-triangle) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
@@ -130,6 +129,7 @@
 | [0202-happy-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
@@ -220,7 +220,6 @@
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2846-robot-collisions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2846-robot-collisions) |
-| [3226-minimum-number-game](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3226-minimum-number-game) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3321-type-of-triangle) |
 | [3647-zero-array-transformation-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -229,7 +228,6 @@
 |  |
 | ------- |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
-| [3226-minimum-number-game](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3226-minimum-number-game) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -265,6 +263,7 @@
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [1960-check-if-the-sentence-is-pangram](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -329,7 +328,6 @@
 | [2195-time-needed-to-buy-tickets](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [2846-robot-collisions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2846-robot-collisions) |
-| [3226-minimum-number-game](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3226-minimum-number-game) |
 ## Database
 |  |
 | ------- |
