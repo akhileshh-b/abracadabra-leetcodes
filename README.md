@@ -19,6 +19,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
+| [0287-find-the-duplicate-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0792-binary-search) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1019-squares-of-a-sorted-array) |
@@ -64,6 +65,7 @@
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0278-first-bad-version) |
+| [0287-find-the-duplicate-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0374-guess-number-higher-or-lower](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0792-binary-search) |
@@ -107,6 +109,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0202-happy-number) |
+| [0287-find-the-duplicate-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0868-push-dominoes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -213,6 +216,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0067-add-binary) |
+| [0287-find-the-duplicate-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [1022-unique-paths-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1610-xor-operation-in-an-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1610-xor-operation-in-an-array) |
