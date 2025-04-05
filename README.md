@@ -285,6 +285,7 @@
 | [0868-push-dominoes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
+| [1542-consecutive-characters](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1542-consecutive-characters) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2219-maximum-number-of-words-found-in-sentences) |
