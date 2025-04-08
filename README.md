@@ -20,6 +20,7 @@
 | [0162-find-peak-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0162-find-peak-element) |
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0792-binary-search) |
@@ -145,6 +146,7 @@
 | [0160-intersection-of-two-linked-lists](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0202-happy-number) |
 | [0383-ransom-note](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0383-ransom-note) |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
