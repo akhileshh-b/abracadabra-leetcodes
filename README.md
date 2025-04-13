@@ -13,6 +13,7 @@
 | [0042-trapping-rain-water](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0048-rotate-image) |
 | [0051-n-queens](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0051-n-queens) |
+| [0053-maximum-subarray](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0053-maximum-subarray) |
 | [0073-set-matrix-zeroes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0075-sort-colors](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0075-sort-colors) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
@@ -199,6 +200,7 @@
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0042-trapping-rain-water](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0042-trapping-rain-water) |
+| [0053-maximum-subarray](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0053-maximum-subarray) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 | [0806-domino-and-tromino-tiling](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0806-domino-and-tromino-tiling) |
@@ -339,6 +341,7 @@
 |  |
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
+| [0053-maximum-subarray](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0053-maximum-subarray) |
 | [3822-fill-a-special-grid](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3822-fill-a-special-grid) |
 ## Shortest Path
 |  |
