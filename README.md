@@ -35,6 +35,7 @@
 | [0485-max-consecutive-ones](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0485-max-consecutive-ones) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1022-unique-paths-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1022-unique-paths-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -88,6 +89,7 @@
 | [0374-guess-number-higher-or-lower](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0792-binary-search) |
+| [0882-peak-index-in-a-mountain-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1476-count-negative-numbers-in-a-sorted-matrix](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1476-count-negative-numbers-in-a-sorted-matrix) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
