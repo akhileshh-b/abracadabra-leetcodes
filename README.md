@@ -19,6 +19,7 @@
 | [0088-merge-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0088-merge-sorted-array) |
 | [0119-pascals-triangle-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0136-single-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0162-find-peak-element) |
@@ -234,6 +235,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0067-add-binary) |
+| [0136-single-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0287-find-the-duplicate-number) |
