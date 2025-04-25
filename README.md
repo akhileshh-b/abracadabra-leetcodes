@@ -27,6 +27,7 @@
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
 | [0260-single-number-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0414-third-maximum-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0485-max-consecutive-ones) |
@@ -79,6 +80,7 @@
 | [0162-find-peak-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0162-find-peak-element) |
 | [0278-first-bad-version](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0374-guess-number-higher-or-lower](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0374-guess-number-higher-or-lower) |
 | [0540-single-element-in-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0792-binary-search) |
@@ -128,6 +130,7 @@
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0202-happy-number) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0868-push-dominoes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0868-push-dominoes) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
@@ -155,6 +158,7 @@
 | [0073-set-matrix-zeroes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0202-happy-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0202-happy-number) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0383-ransom-note) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
@@ -251,6 +255,7 @@
 | [0015-3sum](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0088-merge-sorted-array) |
+| [0350-intersection-of-two-arrays-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1306-minimum-absolute-difference](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1306-minimum-absolute-difference) |
