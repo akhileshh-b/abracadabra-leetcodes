@@ -24,6 +24,7 @@
 | [0137-single-number-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0137-single-number-ii) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0162-find-peak-element) |
+| [0169-majority-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0260-single-number-iii) |
@@ -168,6 +169,7 @@
 | [0013-roman-to-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
+| [0169-majority-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0169-majority-element) |
 | [0202-happy-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0202-happy-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -268,6 +270,7 @@
 | [0015-3sum](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0015-3sum) |
 | [0075-sort-colors](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0088-merge-sorted-array) |
+| [0169-majority-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0414-third-maximum-number) |
@@ -355,6 +358,7 @@
 ## Counting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0169-majority-element) |
 | [0383-ransom-note](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0383-ransom-note) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
@@ -377,6 +381,7 @@
 | ------- |
 | [0004-median-of-two-sorted-arrays](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0053-maximum-subarray) |
+| [0169-majority-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0169-majority-element) |
 | [3822-fill-a-special-grid](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3822-fill-a-special-grid) |
 ## Shortest Path
 |  |
