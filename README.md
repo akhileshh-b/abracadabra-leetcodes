@@ -193,6 +193,7 @@
 | [0349-intersection-of-two-arrays](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0383-ransom-note](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0389-find-the-difference) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1227-number-of-equivalent-domino-pairs](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
@@ -280,6 +281,7 @@
 | [0137-single-number-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0260-single-number-iii) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0389-find-the-difference](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0389-find-the-difference) |
 | [1022-unique-paths-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1610-xor-operation-in-an-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -297,6 +299,7 @@
 | [0347-top-k-frequent-elements](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0389-find-the-difference](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0414-third-maximum-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1137-height-checker](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1137-height-checker) |
@@ -350,6 +353,7 @@
 | [0125-valid-palindrome](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0125-valid-palindrome) |
 | [0242-valid-anagram](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0242-valid-anagram) |
 | [0383-ransom-note](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0383-ransom-note) |
+| [0389-find-the-difference](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0389-find-the-difference) |
 | [0412-fizz-buzz](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0412-fizz-buzz) |
 | [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 | [0520-detect-capital](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0520-detect-capital) |
