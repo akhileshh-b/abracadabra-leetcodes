@@ -358,6 +358,7 @@
 | [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 | [0520-detect-capital](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0520-detect-capital) |
 | [0742-to-lower-case](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0742-to-lower-case) |
+| [0812-rotate-string](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0812-rotate-string) |
 | [0868-push-dominoes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0868-push-dominoes) |
 | [1093-recover-a-tree-from-preorder-traversal](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1093-recover-a-tree-from-preorder-traversal) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -548,6 +549,7 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0812-rotate-string](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0812-rotate-string) |
 ## Memoization
 |  |
 | ------- |
