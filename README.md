@@ -13,6 +13,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0042-trapping-rain-water](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0042-trapping-rain-water) |
 | [0048-rotate-image](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0048-rotate-image) |
+| [0049-group-anagrams](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0049-group-anagrams) |
 | [0051-n-queens](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0051-n-queens) |
 | [0053-maximum-subarray](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0053-maximum-subarray) |
 | [0066-plus-one](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0066-plus-one) |
@@ -171,6 +172,7 @@
 | ------- |
 | [0001-two-sum](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0049-group-anagrams) |
 | [0073-set-matrix-zeroes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0073-set-matrix-zeroes) |
 | [0160-intersection-of-two-linked-lists](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0160-intersection-of-two-linked-lists) |
 | [0169-majority-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0169-majority-element) |
@@ -274,6 +276,7 @@
 |  |
 | ------- |
 | [0015-3sum](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0015-3sum) |
+| [0049-group-anagrams](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0088-merge-sorted-array) |
 | [0169-majority-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0169-majority-element) |
@@ -325,6 +328,7 @@
 | [0005-longest-palindromic-substring](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0013-roman-to-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0014-longest-common-prefix) |
+| [0049-group-anagrams](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0049-group-anagrams) |
 | [0058-length-of-last-word](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0058-length-of-last-word) |
 | [0067-add-binary](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0067-add-binary) |
 | [0125-valid-palindrome](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0125-valid-palindrome) |
