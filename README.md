@@ -34,6 +34,7 @@
 | [0219-contains-duplicate-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0238-product-of-array-except-self](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0238-product-of-array-except-self) |
 | [0260-single-number-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0283-move-zeroes) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0347-top-k-frequent-elements](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0347-top-k-frequent-elements) |
@@ -93,6 +94,7 @@
 | [0069-sqrtx](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0069-sqrtx) |
 | [0154-find-minimum-in-rotated-sorted-array-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0154-find-minimum-in-rotated-sorted-array-ii) |
 | [0162-find-peak-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0162-find-peak-element) |
+| [0268-missing-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0268-missing-number) |
 | [0278-first-bad-version](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0278-first-bad-version) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0349-intersection-of-two-arrays) |
@@ -119,6 +121,7 @@
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0202-happy-number) |
 | [0258-add-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0258-add-digits) |
+| [0268-missing-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -189,6 +192,7 @@
 | [0217-contains-duplicate](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0217-contains-duplicate) |
 | [0219-contains-duplicate-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0242-valid-anagram](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
@@ -280,6 +284,7 @@
 | [0136-single-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0137-single-number-ii) |
 | [0260-single-number-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0260-single-number-iii) |
+| [0268-missing-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0389-find-the-difference](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0389-find-the-difference) |
 | [1022-unique-paths-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1022-unique-paths-iii) |
@@ -296,6 +301,7 @@
 | [0169-majority-element](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0347-top-k-frequent-elements) |
 | [0349-intersection-of-two-arrays](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0350-intersection-of-two-arrays-ii) |
