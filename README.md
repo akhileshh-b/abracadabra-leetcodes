@@ -120,6 +120,7 @@
 | [0069-sqrtx](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0231-power-of-two) |
 | [0258-add-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0412-fizz-buzz) |
@@ -283,6 +284,7 @@
 | [0067-add-binary](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0137-single-number-ii) |
+| [0231-power-of-two](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0231-power-of-two) |
 | [0260-single-number-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0287-find-the-duplicate-number) |
@@ -388,6 +390,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0231-power-of-two) |
 | [1013-fibonacci-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
