@@ -124,6 +124,7 @@
 | [0258-add-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0258-add-digits) |
 | [0268-missing-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0268-missing-number) |
 | [0326-power-of-three](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0342-power-of-four) |
 | [0412-fizz-buzz](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -289,6 +290,7 @@
 | [0260-single-number-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0260-single-number-iii) |
 | [0268-missing-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0342-power-of-four](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0342-power-of-four) |
 | [0389-find-the-difference](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0389-find-the-difference) |
 | [1022-unique-paths-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1022-unique-paths-iii) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
@@ -393,6 +395,7 @@
 | [0060-permutation-sequence](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0231-power-of-two) |
 | [0326-power-of-three](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0326-power-of-three) |
+| [0342-power-of-four](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0342-power-of-four) |
 | [1013-fibonacci-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
