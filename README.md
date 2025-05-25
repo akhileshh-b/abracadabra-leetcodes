@@ -119,6 +119,7 @@
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0412-fizz-buzz) |
+| [1013-fibonacci-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1610-xor-operation-in-an-array) |
@@ -251,6 +252,7 @@
 | [0514-freedom-trail](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0514-freedom-trail) |
 | [0806-domino-and-tromino-tiling](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0806-domino-and-tromino-tiling) |
 | [0868-push-dominoes](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0868-push-dominoes) |
+| [1013-fibonacci-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1013-fibonacci-number) |
 | [1381-maximum-score-words-formed-by-letters](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [2061-painting-a-grid-with-three-different-colors](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2061-painting-a-grid-with-three-different-colors) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -374,6 +376,7 @@
 | [0025-reverse-nodes-in-k-group](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0050-powx-n) |
 | [0060-permutation-sequence](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0060-permutation-sequence) |
+| [1013-fibonacci-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1013-fibonacci-number) |
 ## Stack
 |  |
 | ------- |
@@ -538,4 +541,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
