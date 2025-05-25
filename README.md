@@ -118,6 +118,7 @@
 | [0069-sqrtx](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0202-happy-number) |
+| [0258-add-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0412-fizz-buzz) |
 | [1013-fibonacci-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1013-fibonacci-number) |
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
@@ -427,6 +428,7 @@
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0067-add-binary) |
+| [0258-add-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0258-add-digits) |
 | [0412-fizz-buzz](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0412-fizz-buzz) |
 | [2048-build-array-from-permutation](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2195-time-needed-to-buy-tickets](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -510,6 +512,7 @@
 ## Number Theory
 |  |
 | ------- |
+| [0258-add-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0258-add-digits) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## Bitmask
