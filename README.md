@@ -47,6 +47,7 @@
 | [0745-find-smallest-letter-greater-than-target](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0745-find-smallest-letter-greater-than-target) |
 | [0792-binary-search](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0882-peak-index-in-a-mountain-array) |
+| [0890-lemonade-change](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0890-lemonade-change) |
 | [1019-squares-of-a-sorted-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1019-squares-of-a-sorted-array) |
 | [1022-unique-paths-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1022-unique-paths-iii) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
@@ -274,6 +275,7 @@
 | ------- |
 | [0011-container-with-most-water](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0890-lemonade-change](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0890-lemonade-change) |
 | [1049-minimum-domino-rotations-for-equal-row](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1049-minimum-domino-rotations-for-equal-row) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
