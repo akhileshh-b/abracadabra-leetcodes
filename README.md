@@ -73,6 +73,7 @@
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2472-build-a-matrix-with-conditions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2472-build-a-matrix-with-conditions) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2846-robot-collisions](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2846-robot-collisions) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3143-longest-unequal-adjacent-groups-subsequence-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3143-longest-unequal-adjacent-groups-subsequence-i) |
@@ -134,6 +135,7 @@
 | [2383-add-two-integers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2383-add-two-integers) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
+| [2624-difference-between-element-sum-and-digit-sum-of-an-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2624-difference-between-element-sum-and-digit-sum-of-an-array) |
 | [2752-sum-multiples](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2752-sum-multiples) |
 | [2812-find-the-maximum-achievable-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2812-find-the-maximum-achievable-number) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
