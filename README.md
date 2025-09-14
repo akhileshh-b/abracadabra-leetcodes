@@ -85,6 +85,7 @@
 | [3221-find-the-peaks](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3221-find-the-peaks) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
 | [3321-type-of-triangle](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3321-type-of-triangle) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akhileshh-b/abracadabra-leetcodes/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
 | [3647-zero-array-transformation-iii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3647-zero-array-transformation-iii) |
@@ -215,6 +216,7 @@
 | [1960-check-if-the-sentence-is-pangram](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akhileshh-b/abracadabra-leetcodes/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 | [3629-total-characters-in-string-after-transformations-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3629-total-characters-in-string-after-transformations-i) |
 | [3630-total-characters-in-string-after-transformations-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3630-total-characters-in-string-after-transformations-ii) |
 | [3656-minimum-number-of-operations-to-make-elements-in-array-distinct](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3656-minimum-number-of-operations-to-make-elements-in-array-distinct) |
@@ -306,6 +308,7 @@
 | [1381-maximum-score-words-formed-by-letters](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1381-maximum-score-words-formed-by-letters) |
 | [1610-xor-operation-in-an-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1610-xor-operation-in-an-array) |
 | [3307-find-the-maximum-sum-of-node-values](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3307-find-the-maximum-sum-of-node-values) |
+| [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akhileshh-b/abracadabra-leetcodes/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
 ## Sorting
 |  |
 | ------- |
