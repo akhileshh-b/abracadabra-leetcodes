@@ -6,7 +6,7 @@ public:
             freq[nums[i]]++;
         }
         int x=0;
-        for(auto it:freq){
+        for(auto &it:freq){
             if(it.second==2){
                 x^=it.first;
             }
