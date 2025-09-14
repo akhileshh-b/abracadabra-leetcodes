@@ -1,28 +1,12 @@
 class Solution {
 public:
     int missingNumber(vector<int>& nums) {
+        int n=nums.size();
         int sum=0;
-        int n = nums.size();
+        int expectedsum=n*(n+1)/2;
         for(int i=0;i<n;i++){
-            sum = sum + nums.at(i);
+            sum+=nums[i];
         }
-        int sOfNumbers = (n*(n+1)/2);
-        return sOfNumbers-sum;
+        return expectedsum-sum;
     }
 };
-
-// class Solution {
-// public:
-//     int missingNumber(vector<int>& nums) {
-//         sort(nums.begin(),nums.end());
-//         int n = nums.size();
-//         int ans;
-//         for(int i=0;i<n;i++){
-//             if(nums.at(i) != i){
-//            ans = i;
-//            break;
-//             }
-//         }
-//         return ans;
-//     }
-// };
