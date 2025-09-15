@@ -1,20 +1,31 @@
 class Solution {
- public:
-  void sortColors(vector<int>& nums) {
-    int zero = -1;
-    int one = -1;
-    int two = -1;
-
-    for (const int num : nums)
-      if (num == 0) {
-        nums[++two] = 2;
-        nums[++one] = 1;
-        nums[++zero] = 0;
-      } else if (num == 1) {
-        nums[++two] = 2;
-        nums[++one] = 1;
-      } else {
-        nums[++two] = 2;
-      }
-  }
+public:
+    void sortColors(vector<int>& nums) {
+        int zeros=0,ones=0,twos=0;
+        for(int i=0;i<nums.size();i++){
+            if(nums[i]==0){
+                zeros++;
+            }
+            else if(nums[i]==1){
+                ones++;
+            }
+            else{
+                twos++;
+            }
+        }
+        int n=zeros+ones+twos;
+        for(int i=0;i<n;i++){
+            if(zeros!=0){
+                nums[i]=0;
+                zeros--;
+            }else if(ones!=0){
+                nums[i]=1;
+                ones--;
+            }
+            else if(twos!=0){
+                nums[i]=2;
+                twos--;
+            }
+        }
+    }
 };
