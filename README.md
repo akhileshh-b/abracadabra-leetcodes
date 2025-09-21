@@ -66,6 +66,7 @@
 | [1833-find-the-highest-altitude](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1833-find-the-highest-altitude) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/akhileshh-b/abracadabra-leetcodes/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [1895-minimum-number-of-operations-to-move-all-balls-to-each-box](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1895-minimum-number-of-operations-to-move-all-balls-to-each-box) |
+| [2023-design-movie-rental-system](https://github.com/akhileshh-b/abracadabra-leetcodes/tree/master/2023-design-movie-rental-system) |
 | [2048-build-array-from-permutation](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2048-build-array-from-permutation) |
 | [2180-maximum-number-of-tasks-you-can-assign](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2180-maximum-number-of-tasks-you-can-assign) |
 | [2195-time-needed-to-buy-tickets](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2195-time-needed-to-buy-tickets) |
@@ -214,6 +215,7 @@
 | [1227-number-of-equivalent-domino-pairs](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1227-number-of-equivalent-domino-pairs) |
 | [1392-find-the-difference-of-two-arrays](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1392-find-the-difference-of-two-arrays) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+| [2023-design-movie-rental-system](https://github.com/akhileshh-b/abracadabra-leetcodes/tree/master/2023-design-movie-rental-system) |
 | [2215-finding-3-digit-even-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2215-finding-3-digit-even-numbers) |
 | [2274-keep-multiplying-found-values-by-two](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2274-keep-multiplying-found-values-by-two) |
 | [3428-find-the-xor-of-numbers-which-appear-twice](https://github.com/akhileshh-b/abracadabra-leetcodes/tree/master/3428-find-the-xor-of-numbers-which-appear-twice) |
@@ -341,6 +343,7 @@
 |  |
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0347-top-k-frequent-elements) |
+| [2023-design-movie-rental-system](https://github.com/akhileshh-b/abracadabra-leetcodes/tree/master/2023-design-movie-rental-system) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [3627-find-minimum-time-to-reach-last-room-i](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3627-find-minimum-time-to-reach-last-room-i) |
 | [3628-find-minimum-time-to-reach-last-room-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/3628-find-minimum-time-to-reach-last-room-ii) |
@@ -520,6 +523,7 @@
 |  |
 | ------- |
 | [0341-flatten-nested-list-iterator](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0341-flatten-nested-list-iterator) |
+| [2023-design-movie-rental-system](https://github.com/akhileshh-b/abracadabra-leetcodes/tree/master/2023-design-movie-rental-system) |
 ## Queue
 |  |
 | ------- |
@@ -582,4 +586,8 @@
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1013-fibonacci-number) |
+## Ordered Set
+|  |
+| ------- |
+| [2023-design-movie-rental-system](https://github.com/akhileshh-b/abracadabra-leetcodes/tree/master/2023-design-movie-rental-system) |
 <!---LeetCode Topics End-->
