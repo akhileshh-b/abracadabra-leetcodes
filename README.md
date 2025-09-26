@@ -269,6 +269,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/akhileshh-b/abracadabra-leetcodes/tree/master/0010-regular-expression-matching) |
 | [0042-trapping-rain-water](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0042-trapping-rain-water) |
 | [0053-maximum-subarray](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0053-maximum-subarray) |
 | [0119-pascals-triangle-ii](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0119-pascals-triangle-ii) |
@@ -376,6 +377,7 @@
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0010-regular-expression-matching](https://github.com/akhileshh-b/abracadabra-leetcodes/tree/master/0010-regular-expression-matching) |
 | [0013-roman-to-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0014-longest-common-prefix) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -411,6 +413,7 @@
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0002-add-two-numbers) |
+| [0010-regular-expression-matching](https://github.com/akhileshh-b/abracadabra-leetcodes/tree/master/0010-regular-expression-matching) |
 | [0021-merge-two-sorted-lists](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0025-reverse-nodes-in-k-group](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0025-reverse-nodes-in-k-group) |
 | [0050-powx-n](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/0050-powx-n) |
