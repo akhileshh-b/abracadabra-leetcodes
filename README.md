@@ -140,6 +140,7 @@
 | [1406-subtract-the-product-and-sum-of-digits-of-an-integer](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1406-subtract-the-product-and-sum-of-digits-of-an-integer) |
 | [1421-find-numbers-with-even-number-of-digits](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1421-find-numbers-with-even-number-of-digits) |
 | [1610-xor-operation-in-an-array](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/1610-xor-operation-in-an-array) |
+| [2235-add-two-integers](https://github.com/akhileshh-b/abracadabra-leetcodes/tree/master/2235-add-two-integers) |
 | [2383-add-two-integers](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2383-add-two-integers) |
 | [2423-minimum-deletions-to-make-array-divisible](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2423-minimum-deletions-to-make-array-divisible) |
 | [2608-count-the-digits-that-divide-a-number](https://github.com/akhileshh-b/abracadabra-leetcode/tree/master/2608-count-the-digits-that-divide-a-number) |
